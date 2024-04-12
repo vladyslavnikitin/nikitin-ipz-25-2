@@ -1,0 +1,6 @@
+Ukraine, 1960, 42
+Ukraine, 2000, 49
+Ukraine, 2022, 38
+Britania, 1960, 52
+Britania, 2000, 58
+Britania, 2022, 66
